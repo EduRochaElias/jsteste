@@ -1,4 +1,4 @@
-name: security-action
+name: security-action 
 on:
   push:
     branches: [dev]
